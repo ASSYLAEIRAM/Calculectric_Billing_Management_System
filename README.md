@@ -1,0 +1,2 @@
+# Calculectric_Billing_Management_System
+Calculectric Billing System is a software based application that aims to manage the landlor'd and tenant's monthly electric bills. This focuses on solving the problem with manual computation of monthly sub meter reading, total amount payable, total amount per kilowatt, and over all electric consumption. This also help with innacurate and redundant computations.  This system will provide the landlord's with accurate computation and will help with time efficiency.  
